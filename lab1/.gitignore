@@ -1,3 +1,6 @@
 .env
 __pycache__
 connection_log.txt
+movement_log.txt
+inspection_log.txt
+inspections
